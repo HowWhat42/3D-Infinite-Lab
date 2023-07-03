@@ -6,7 +6,7 @@ export default function Experience()
     const computer = useGLTF('/model.gltf')
 
     return <>
-        <Perf position="top-left" />
+        {/* <Perf position="top-left" /> */}
 
         <Environment preset="city" />
 
